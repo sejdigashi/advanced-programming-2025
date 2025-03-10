@@ -62,3 +62,6 @@ To create this project, I used an AI tool to assist with the following:
 
 ## Conclusion
 This exercise demonstrated the power of AI-assisted coding while highlighting the importance of human oversight. By leveraging AI tools effectively, I was able to create a simple yet functional program that meets all the requirements. This experience has deepened my understanding of JavaScript and improved my confidence in using AI as a coding assistant.
+
+## Screenshot of terminal
+<img width="417" alt="Screenshot 2025-03-10 at 10 05 22" src="https://github.com/user-attachments/assets/d19ccd17-0d04-476c-ad6f-959d16c1a717" />
